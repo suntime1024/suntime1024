@@ -1,5 +1,5 @@
 # 小太阳线报
-hello world!suntime1024
+![image](https://github.com/suntime1024/suntime1024/blob/master/pictures/commom_mask.jpeg)
 本文将持续更新维护，大家有其它城市消息请发评论区，我们将第一时间更新上去。
 
 导读：
@@ -95,4 +95,6 @@ hello world!suntime1024
 第三步，附近门店口罩领完后，点击门店名称查看其他附近其他门店是否有货！如有货点击领取即可！
 
 目前收集到这些，欢迎斧正，如果有其他城市口罩预约方式，欢迎pull me。
+
+![image](https://github.com/suntime1024/suntime1024/blob/master/pictures/sunshine.gif)
 # 更多信息关注微信公众号：小太阳线报
