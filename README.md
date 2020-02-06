@@ -12,4 +12,4 @@ hello world!suntime1024
 
 ## 福建厦门
 
-仅限厦门户籍和厦门缴纳社保的，《快讯！“i厦门”APP口罩预约今天下午上线！超全使用指南...》
+仅限厦门户籍和厦门缴纳社保的，[《快讯！“i厦门”APP口罩预约今天下午上线！超全使用指南...》](https://mp.weixin.qq.com/s?__biz=MjM5NDk1OTM3NQ==&mid=2650420209&idx=1&sn=6d389f2b7aadaba4c34c6c9f28064c66&scene=21#wechat_redirect)
